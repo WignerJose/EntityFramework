@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8045cbd2-e774-4988-bcd6-2bcc6f50c50f": {
+      "ProjectGuid": "8045cbd2-e774-4988-bcd6-2bcc6f50c50f",
+      "DisplayName": "EntityFramework",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
